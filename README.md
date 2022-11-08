@@ -1,6 +1,7 @@
 # 👋 Hi, I’m @zesertebe fullstack developer...
 > My name is Arturo, I am a fullstack developer. I love to learn and understand how things work.
 
+<br><br>
 ## 🧑‍💼 Projects
 
 | # | NAME | PLATFORM | DESCRIPTION
@@ -12,6 +13,8 @@
 | 5 | [CursorPosTool](https://github.com/zesertebe/CursorPosTool) | Desktop | Utility to obtain the coordinates of the cursors and the HEX color of the screen.
 | 6 | [consoleTools](https://github.com/zesertebe/consoleTools) | Python | Set of tools to make console programs more friendly
 | 7 | [AppScriptHandleErrors](https://github.com/zesertebe/AppScriptHandleErrors) | AppScript | Class that allows error handling in AppScript projects
+
+<br><br>
 
 ## 🌐 Portfolio
 <a href="https://ocancelada.dev" target="_blank">Ocancelada.dev</a>
