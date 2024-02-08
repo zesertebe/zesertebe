@@ -17,4 +17,4 @@
 <br><br>
 
 ## 🌐 Portfolio
-<a href="https://adev" target="_blank">adev.dev</a>
+<a href="https://adev.dev" target="_blank">adev.dev</a>
