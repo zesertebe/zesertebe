@@ -13,6 +13,7 @@
 | 5 | [CursorPosTool](https://github.com/zesertebe/CursorPosTool) | Desktop | Utility to obtain the coordinates of the cursors and the HEX color of the screen.
 | 6 | [consoleTools](https://github.com/zesertebe/consoleTools) | Python | Set of tools to make console programs more friendly
 | 7 | [AppScriptHandleErrors](https://github.com/zesertebe/AppScriptHandleErrors) | AppScript | Class that allows error handling in AppScript projects
+| 8 | [min-store](https://github.com/zesertebe/min-store) | Typescript | Simple Redux-like state manager
 
 <br><br>
 
