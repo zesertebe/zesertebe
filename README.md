@@ -9,7 +9,7 @@
 | 1 | [AppScriptUtilities](https://github.com/zesertebe/AppScriptUtilities) | AppScript | Set of Utilities for the AppScript environment
 | 2 | [AppScriptSpreadSheet](https://github.com/zesertebe/AppScriptSpreadSheet) | AppScript | Class that provides methods for reading and writing data in Google sheets.
 | 3 | [SupraTables](https://github.com/zesertebe/SupraTables) | Web |  library allows to generate a dynamic table with few lines being compatible with applications developed in Google AppScript 
-| 4 | [GASE](https://github.com/zesertebe/GoogleAppScriptEditor-GASE) | Extension Chrome | Additional functionality and feature set for the Google AppScript editor. 
+| 4 | [GASE](https://chromewebstore.google.com/detail/app-script-editor-pro/lefcemnilieamgifcegilmkaclmhakfc?pli=1) | Extension Chrome | Additional functionality and feature set for the Google AppScript editor. 
 | 5 | [CursorPosTool](https://github.com/zesertebe/CursorPosTool) | Desktop | Utility to obtain the coordinates of the cursors and the HEX color of the screen.
 | 6 | [consoleTools](https://github.com/zesertebe/consoleTools) | Python | Set of tools to make console programs more friendly
 | 7 | [AppScriptHandleErrors](https://github.com/zesertebe/AppScriptHandleErrors) | AppScript | Class that allows error handling in AppScript projects
