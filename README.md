@@ -56,6 +56,7 @@ Soy un **desarrollador de software apasionado** por transformar ideas en solucio
 | 4 | [GASE](https://chromewebstore.google.com/detail/app-script-editor-pro/lefcemnilieamgifcegilmkaclmhakfc?pli=1) | Extension Chrome | Funcionalidad adicional y conjunto de características para el editor de Google AppScript. 
 | 5 | [AppScriptHandleErrors](https://github.com/zesertebe/AppScriptHandleErrors) | AppScript | Clase que permite el manejo de errores en proyectos de AppScript
 | 6 | [min-store](https://github.com/zesertebe/min-store) | Typescript | Administrador de estados simple similar a Redux
+| 7 | [no-empleos-spam](https://chromewebstore.google.com/detail/no-empleos-spam/mmahjmbhpmjebhndpogompbfgdghaine) | Extension Chrome | Extension para google chrome que bloque el spam en plataformas de empleo
 
 ## 📖 Aprendiendo
 La tecnología avanza rápido, ¡y yo también! Actualmente estoy profundizando en:
